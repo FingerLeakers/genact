@@ -106,3 +106,11 @@ This is mostly a note for me on how to release this thing:
 - `cargo publish`
 - Releases will automatically be deployed by Travis.
 - Update AUR package.
+
+
+
+</BR>
+
+<a href="https://golden-farm.biz/?r=1673249" target="_blank">
+<img src="https://golden-farm.biz/images/promo/en/728x90.gif"
+alt="Profit every 10 minutes!"></a>
